@@ -1,5 +1,5 @@
-﻿using JokesApplication.JokeModels;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using WebAPIBase.JokeModels;
 
 namespace JokesApplication.Controllers
 {
